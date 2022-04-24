@@ -14,3 +14,8 @@ The first test on this one is fairly easy, but there are a few things to think a
 - how to deal with multiple optional arguments in a javascript function
 - [Check this link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments).  Scroll down to the bit about `Array.from` or the spread operator. - [Or this link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters).
   
+1. take out array -> 1st argument is arry.-> assign it to array
+2. new array 
+3. if each target is not included in the array -> added to new array.
+  
+
